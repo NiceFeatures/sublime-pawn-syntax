@@ -1,6 +1,6 @@
 %YAML 1.2
 ---
-name: Pawn
+name: AMX Mod X Pawn
 file_extensions:
   - sma
   - inc
