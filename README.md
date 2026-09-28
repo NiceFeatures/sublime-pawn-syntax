@@ -14,7 +14,7 @@ Sublime Text syntax highlighting for **AMX Mod X Pawn** (`.sma` and `.inc` files
 ### Via Package Control (Recommended)
 1. Open the Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`).
 2. Select **Package Control: Install Package**.
-3. Search for **`AMX Mod X Pawn Syntax`** and press Enter.
+3. Search for **`AMX Mod X Pawn`** and press Enter.
 
 ### Manual Installation
 1. Clone this repository into your Sublime Text `Packages` directory:
